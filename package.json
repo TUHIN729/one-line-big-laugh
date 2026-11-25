@@ -1,0 +1,11 @@
+{
+  "name": "one-line-big-laugh",
+  "version": "1.0.0",
+  "description": "One Line, Big Laugh — a single hilarious line, written to /output/entry.txt",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18"
+  }
+}
